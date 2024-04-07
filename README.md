@@ -1,1 +1,3 @@
-Bling Bling Bling
+# Título do meu README
+
+Aqui teremos as informações relativas ao nosso projeto.
